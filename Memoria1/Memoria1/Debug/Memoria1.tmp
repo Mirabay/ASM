@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\ASM\Memoria1\Memoria1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ASM\Memoria1\Memoria1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ASM\Memoria1\Memoria1\Debug\Memoria1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Memoria1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Memoria1.map</FILE>
+  <FILE>Memoria1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>D:\ASM\Memoria1\Memoria1\main.asm</FILE><LINE>8</LINE></Inicio>
+  <Ciclo><FILE>D:\ASM\Memoria1\Memoria1\main.asm</FILE><LINE>12</LINE></Ciclo>
+  <Fin><FILE>D:\ASM\Memoria1\Memoria1\main.asm</FILE><LINE>16</LINE></Fin>
+ </LABELS>
+</ASSEMBLER_INFO>

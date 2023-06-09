@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\ASM\SegunderoASM\SegunderoASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ASM\SegunderoASM\SegunderoASM\Debug\SegunderoASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SegunderoASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SegunderoASM.map</FILE>
+  <FILE>SegunderoASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</FILE><LINE>9</LINE></Inicio>
+  <Ciclo><FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</FILE><LINE>14</LINE></Ciclo>
+  <Tabla><FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</FILE><LINE>54</LINE></Tabla>
+  <Delay1Seg><FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</FILE><LINE>34</LINE></Delay1Seg>
+  <DelaymedioSeg><FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</FILE><LINE>39</LINE></DelaymedioSeg>
+  <CicloDelay><FILE>D:\ASM\SegunderoASM\SegunderoASM\main.asm</FILE><LINE>42</LINE></CicloDelay>
+ </LABELS>
+</ASSEMBLER_INFO>

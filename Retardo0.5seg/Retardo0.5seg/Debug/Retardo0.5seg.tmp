@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\ASM\Retardo0.5seg\Retardo0.5seg\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ASM\Retardo0.5seg\Retardo0.5seg\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ASM\Retardo0.5seg\Retardo0.5seg\Debug\Retardo0.5seg.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Retardo0.5seg.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Retardo0.5seg.map</FILE>
+  <FILE>Retardo0.5seg.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>D:\ASM\Retardo0.5seg\Retardo0.5seg\main.asm</FILE><LINE>8</LINE></Inicio>
+  <Ciclo><FILE>D:\ASM\Retardo0.5seg\Retardo0.5seg\main.asm</FILE><LINE>13</LINE></Ciclo>
+  <DelayMedioSeg><FILE>D:\ASM\Retardo0.5seg\Retardo0.5seg\main.asm</FILE><LINE>20</LINE></DelayMedioSeg>
+  <CicloDelay><FILE>D:\ASM\Retardo0.5seg\Retardo0.5seg\main.asm</FILE><LINE>23</LINE></CicloDelay>
+ </LABELS>
+</ASSEMBLER_INFO>
